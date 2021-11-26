@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Thang.
-- 🌱 I’m currently learning Information Technology in Quy Nhon University.
-- 👀 I’m live in Phu Cat, Binh Dinh.
+- 👋 ʜɪ, ɪ’ᴍ @ᴛʜᴀɴɢ.
+- 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴛᴇᴄʜɴᴏʟᴏɢʏ ɪɴ ǫᴜʏ ɴʜᴏɴ ᴜɴɪᴠᴇʀsɪᴛʏ.
+- 👀 ɪ’ᴍ ʟɪᴠᴇ ɪɴ ᴘʜᴜ ᴄᴀᴛ, ʙɪɴʜ ᴅɪɴʜ.
 - 💞️
-- 📫 Reach me:
-  + Gmail: thangitqnu@gmail.com 
-  + Facebook: www.facebook.com/thangit.com.vn
+- 📫 𝕽𝖊𝖆𝖈𝖍 𝖒𝖊:
+  + 𝕲𝖒𝖆𝖎𝖑: thangitqnu@gmail.com 
+  + 𝕱𝖆𝖈𝖊𝖇𝖔𝖔𝖐: www.facebook.com/thangit.com.vn
   + Zalo: 0989725994 
